@@ -1,6 +1,6 @@
 /*HELLO BRO TERIMA KASIH SUDAH AMBIL SCRIPT INI JANGAN LUPA IKUTI DAN SUBSCRIBE MEDIA SOSIAL OWNER DAN BOT
 
-Instagram : @yann.xd_88
+Instagram : @ryannn.store
 Youtube : '-'
 WhatsApp : 0822-5228-5143
 
