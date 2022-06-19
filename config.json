@@ -7,7 +7,7 @@
   "gamewaktu": 60,
   "limitCount": 30,
   "gcount": {
-	"prem": 100000000000,
-	"user": 30
+	"prem": 999999999999999,
+	"user": 150
   }
 }
