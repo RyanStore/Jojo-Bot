@@ -157,14 +157,12 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 ╠ ➪⏣ ${prefix}kisahnabi <Nama Nabi>
 ╚══════════════════⏣ 
 
-
 ╔═════⏣ *NULIS-MENU📝*
 ╠ ➪⏣ ${prefix}nuliskanan <Text>
 ╠ ➪⏣ ${prefix}nuliskiri <Text>
 ╠ ➪⏣ ${prefix}foliokanan <Text>
 ╠ ➪⏣ ${prefix}foliokiri <Text>
 ╚══════════════════⏣ 
-
 
 ╔═════⏣ *FUN-MENU🗡️*
 ╠ ➪⏣ ${prefix}halah
@@ -173,7 +171,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 ╠ ➪⏣ ${prefix}huluh
 ╠ ➪⏣ ${prefix}holoh 
 ╚══════════════════⏣ 
-
 
 ╔═════⏣ *Game&FUN-Menu2🧢*
 ╠ ➪⏣ ${prefix}delttc
@@ -241,7 +238,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 ╠ ➪⏣ M Hadi Firmansya (Hadi Api)
 ╠ ➪⏣ @hardianto.xyz
 ╚══════════════════⏣ 
-
 
 ╔═════⏣ *RULES-BOT!⚙️*
 ╠ ➪⏣ Dilarang spam bot !
